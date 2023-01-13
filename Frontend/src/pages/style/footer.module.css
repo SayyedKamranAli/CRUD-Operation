@@ -1,0 +1,15 @@
+.ftimg{
+    background-image: url('../img/Rectangle1.png');
+    box-sizing: border-box;
+    max-width: 100%;
+    max-height: 200px;
+   
+}
+.foot{
+    background-color: #124feb38;
+    height: 50px;
+    margin-bottom: 25px;
+    max-width: 100%;
+    box-sizing: border-box;
+    position: sticky;
+}
